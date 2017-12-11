@@ -2,6 +2,10 @@
 
 An effort to create an open source combination of the ideas from [rorodata's SaaS](http://www.rorodata.com/) as presented at Strata Data Conference 2017 in Singapore in their talk [Managing machine learning models in production](https://conferences.oreilly.com/strata/strata-sg/public/schedule/detail/62965), and Accenture's [Model Management Framework](https://www.accenture.com/us-en/insight-improved-automated-analytics) as presented in their talk at the same Strata Data Conference 2017 in Singapore called [DevOps for models](https://conferences.oreilly.com/strata/strata-sg/public/schedule/detail/62831).
 
+The tooling required for production-ready and scalable ML products and the debt it creates is often a bigger part than the actual ML product, and the tooling, expertise, best practices and frameworks for doing it is not as well known or developed.
+
+!docs/images/hidden-tech-debt-ml.png!
+
 Overview of planned features:
 
 * model revisions (git?),
