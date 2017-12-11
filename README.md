@@ -4,7 +4,15 @@ An effort to create an open source combination of the ideas from [rorodata's Saa
 
 The tooling required for production-ready and scalable ML products and the debt it creates is often a bigger part than the actual ML product, and the tooling, expertise, best practices and frameworks for doing it is not as well known or developed.
 
-![Hidden Technical Debt in ML Products](docs/images/hidden-tech-debt-ml.png "Hidden Technical Debt in ML Products")
+<a href="docs/images/hidden-tech-debt-ml.png"><img src="docs/images/hidden-tech-debt-ml.png" alt="Hidden Technical Debt in ML Products" width="600" /></a>
+
+Quote from [VentureBeat](https://venturebeat.com/2017/11/28/infrastructure-3-0-building-blocks-for-the-ai-revolution/?imm_mid=0f8fc7&cmp=em-data-na-na-newsltr_ai_20171204):
+
+> Collectively, the innovations of this epoch — Infrastructure 3.0 — will be about unlocking the potential of ML/AI and providing the building blocks for intelligent systems. As with previous generations, there will be new projects, platforms, and companies that emerge and challenge the current incumbency. The arms dealers for this imminent ML/AI revolution promise to be the infrastructure giants of tomorrow.
+
+<a href="docs/images/ml-stack.png"><img src="docs/images/hidden-tech-debt-ml.png" alt="Hidden Technical Debt in ML Products" width="600" /></a>
+
+From the above image we can see that the ML stack is quite complex, but a lot of the moving parts are repeative boilerplate work that is dying to be automated, so data scientists and machine learning engineers can focus on what's important.
 
 Overview of planned features:
 
