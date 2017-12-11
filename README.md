@@ -4,7 +4,7 @@ An effort to create an open source combination of the ideas from [rorodata's Saa
 
 The tooling required for production-ready and scalable ML products and the debt it creates is often a bigger part than the actual ML product, and the tooling, expertise, best practices and frameworks for doing it is not as well known or developed.
 
-!docs/images/hidden-tech-debt-ml.png!
+![Hidden Technical Debt in ML Products](docs/images/hidden-tech-debt-ml.png "Hidden Technical Debt in ML Products")
 
 Overview of planned features:
 
