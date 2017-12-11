@@ -6,6 +6,14 @@ The tooling required for production-ready and scalable ML products and the debt 
 
 <a href="docs/images/hidden-tech-debt-ml.png"><img src="docs/images/hidden-tech-debt-ml.png" alt="Hidden Technical Debt in ML Products" width="600" /></a>
 
+Quote from [VentureBeat](https://venturebeat.com/2017/11/28/infrastructure-3-0-building-blocks-for-the-ai-revolution/?imm_mid=0f8fc7&cmp=em-data-na-na-newsltr_ai_20171204):
+
+> Collectively, the innovations of this epoch — Infrastructure 3.0 — will be about unlocking the potential of ML/AI and providing the building blocks for intelligent systems. As with previous generations, there will be new projects, platforms, and companies that emerge and challenge the current incumbency. The arms dealers for this imminent ML/AI revolution promise to be the infrastructure giants of tomorrow.
+
+<a href="docs/images/ml-stack.png"><img src="docs/images/hidden-tech-debt-ml.png" alt="Hidden Technical Debt in ML Products" width="600" /></a>
+
+From the above image we can see that the ML stack is quite complex, but a lot of the moving parts are repeative boilerplate work that is dying to be automated, so data scientists and machine learning engineers can focus on what's important.
+
 Overview of planned features:
 
 * model revisions (git?),
