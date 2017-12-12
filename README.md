@@ -18,6 +18,10 @@ Quote from [VentureBeat](https://venturebeat.com/2017/11/28/infrastructure-3-0-b
 
 From the above image we can see that the ML stack is quite complex, but a lot of the moving parts are repeative boilerplate work that is dying to be automated, so data scientists and machine learning engineers can focus on what's important.
 
+[Data Science Life Cycle](https://www.dominodatalab.com/resources/managing-data-science/) from Domino Data Lab:
+
+<a href="docs/images/data-science-lifecycle.png"><img src="docs/images/data-science-lifecycle.png" alt="Data Science Life Cycle" width="600" /></a>
+
 Overview of planned features:
 
 * model revisions (git?),
