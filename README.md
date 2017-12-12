@@ -11,7 +11,7 @@ Overview of planned features:
 * auto-generate REST API,
 * automatic jupyter notebook inclusion in pipeline for debugging.
 
-# Project Rationale
+## Project Rationale
 
 Say you have a spam classifier running in a production environment, with a way to relabel new messages that was incorrectly classified, to be added to the training data. When should the model be retrained? Who will do it? Who will remember do regularly do it? It needs automation or it will not happen. Another example if for social networks where user profiles are recommended to users based on implicid feedback like visits, likes, messaging, photo ratings etc. If the new data generated isn't quickly taked into consideration the recommendations will become obsolete. When should it be retrained, and how should it be done? A cron job for retraining and then a cron job to run the chef/puppet/ansible procedure? How do you generalize it to apply for the other models you are running? A common framework for dealing with it seems to be needed.
 
@@ -40,6 +40,7 @@ Quote from Accenture:
 Quote from rorodata:
 
 > So how do you manage multiple versions of a model; version control the datasets used for model building; tag production and staging versions of a model; switch from one version to another seamlessly without any service disruption; or monitor performance of a live model?
+
 Example from rorodata:
 
 ```
